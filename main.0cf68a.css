@@ -2,3 +2,5 @@
 table>thead>tr>th{background-color:#4d4d4d;color:#fff}
 .article-entry table tbody tr:hover{background-color:#4d4d4d;color:#fff;border-radius: 2px;}.article-inner{background-image:url('./img/background.jpg');}.tools-col .tools-section .search-tag.tagcloud .search-switch input:after {top:15px;left: 1px;}.tools-col .tools-section .search-tag.tagcloud .search-switch input:checked:after {
 left: 28px;}.attribute pre{border:0px solid black;}.article-entry .highlight .gutter pre {text-align: right;padding-right: 7px;border-right: 2px solid #4d4d4d;margin-right:5px}
+body {cursor: url('./img/cursor_0.ico'), default;}
+a:hover{cursor:url('./img/cursor_1.ico'), pointer;}
